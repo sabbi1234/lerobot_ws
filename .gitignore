@@ -1,0 +1,11 @@
+
+# folders
+.vscode/
+build/
+install/
+log/
+
+*~
+*__pycache__/
+*.log
+.claude/
