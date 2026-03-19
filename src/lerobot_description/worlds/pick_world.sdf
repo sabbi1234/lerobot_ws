@@ -71,7 +71,7 @@
       Inertia: I = (1/6) * m * a^2 = (1/6) * 0.05 * 0.03^2 = 7.5e-6 kg.m^2
     -->
     <model name="pick_cube">
-      <pose>0.15 0 0.015 0 0 0</pose>
+      <pose>0.20 -0.02 0.015 0 0 0</pose>
       <link name="link">
         <inertial>
           <mass>0.05</mass>
